@@ -1,4 +1,4 @@
-
+#!/bin/sh
 
 sudo raspistill -t 5000 -w 600 -h 480  -o a.jpg
 #sudo raspivid -t 50000 -o a.h264
